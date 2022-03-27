@@ -35,7 +35,7 @@ The following projects were created before roflxd or are missing key features.
 | Project | Language  | Notes |
 --- | --- | --- |
 | [Rofl.Reader (ROFL Player)](https://github.com/fraxiinus/ROFL-Player/tree/master/Rofl.Reader) | C# | My first ever parser, created for [ROFL-Player](https://github.com/fraxiinus/ROFL-Player). Missing the ability to verify data and does not parse player or payload data. However it is capable of reading partial data from LoLReplay replay files (.LRF). Contains incomplete code for reading BaronReplays files (.LPR) |
-| [Rofl.Reader (ReplayBook)](https://github.com/fraxiinus/ReplayBook/tree/master/Rofl.Reader) | C# | Updated version used in [ReplayBook](https://github.com/fraxiinus/ReplayBook). Missing the ability to verify data and does not parse payload data. However it parses all player data. Unable to parse anything besides ROFL files. |
+| [Rofl.Reader (ReplayBook)](https://github.com/fraxiinus/ReplayBook/tree/master/src/Reader) | C# | Updated version used in [ReplayBook](https://github.com/fraxiinus/ReplayBook). Missing the ability to verify data and does not parse payload data. However it parses all player data. Unable to parse anything besides ROFL files. |
 
 ## Frequently Asked Questions
 
