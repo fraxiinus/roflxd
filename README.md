@@ -45,4 +45,4 @@ Riot Games decided that replay files will just be a dump of the a game's packet 
 
 ### Can you write a roflxd implementation in X language?
 
-Maybe.
+Vote here: https://github.com/fraxiinus/roflxd/discussions/1
