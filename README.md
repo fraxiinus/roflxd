@@ -18,8 +18,8 @@ While roflxd projects might differ wildly from each other, every project must at
 
 | Project                                             | Language    | Notes                                                                                              |
 | --------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------- |
-| [roflxd.go](https://github.com/fraxiinus/roflxd.go) | Golang      | The README labels it as "incomplete" but the ROFL parsing works and meets all roflxd requirements. |
-| [roflxd.cs](https://github.com/fraxiinus/roflxd.cs) | C# (.NET 6) | Fully compliant. |
+| [roflxd.go](https://github.com/fraxiinus/roflxd.go) | Golang      | The README labels it as "incomplete" but the ROFL parsing works and meets all roflxd requirements. Only works on ROFL (pre 14.9) files |
+| [roflxd.cs](https://github.com/fraxiinus/roflxd.cs) | C# (.NET 6) | Fully compliant, supports both ROFL (pre 14.9) and ROFL2 (14.11+) |
 
 ## Planned implementations
 
@@ -45,4 +45,4 @@ Riot Games decided that replay files will just be a dump of the a game's packet 
 
 ### Can you write a roflxd implementation in X language?
 
-Vote here: https://github.com/fraxiinus/roflxd/discussions/1
+[Vote here](https://github.com/fraxiinus/roflxd/discussions/1)
